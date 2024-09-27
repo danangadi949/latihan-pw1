@@ -5,7 +5,7 @@ function config()
     return [
         'app'   => [
             'url'   => 'http://localhost:9000',
-            'name'  => 'Galery APP'
+            'name'  => 'galery_app'
         ],
         'database'  => [
             'port'  => 3306,
